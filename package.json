@@ -1,0 +1,16 @@
+{
+  "name": "hunger-check",
+  "version": "0.0.1",
+  "description": "Daily check your husband's hunger level in Telegram",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgenijkorob/hunger-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgenijkorob/hunger-check/issues"
+  },
+  "homepage": "https://github.com/evgenijkorob/hunger-check#readme"
+}
